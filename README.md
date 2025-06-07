@@ -10,22 +10,29 @@ The code included here corresponds strictly to the parts developed by me:
 
 This repository is intended solely as supplementary material to the thesis.
 
-## Notes
+---
 
-Standard model fitting procedures (e.g. using `gee()` and `lme()`) are described in the thesis but not included here, as they rely on existing functions from public R packages and do not constitute original code developed by me.
+### Notes
 
-## Data Availability
+Standard model fitting procedures (e.g. using `gee()` and `lme()`) are described in the thesis but are not included here, as they rely on existing functions from public R packages and do not constitute original code developed by me.
 
-The dataset used in the thesis is not publicly available due to confidentiality constraints.  
-As such, scripts requiring access to the original data will not run without it.
+---
 
-## Licence
+### Data Availability
 
-This code is provided for **academic use only**.  
-Any commercial use, redistribution, or modification without explicit permission from the author is not allowed.
+The dataset used in the thesis is not publicly available.  
+
+---
+
+### License
+
+This code is provided for academic use only.  
+Any commercial use, redistribution, or modification without explicit permission from the author is not permitted.
 
 No support or additional documentation is provided.
 
-Author: Adriana Vieira  
-Institution: University of Minho  
-Year: 2024
+---
+
+**Author:** Adriana Vieira  
+**Institution:** University of Minho  
+**Year:** 2024
