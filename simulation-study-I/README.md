@@ -8,7 +8,7 @@ The scripts include code analysing the behaviour of the two intensity functions 
 
 - `intensity1_behaviour.R`: Code to study the behaviour of the first intensity function for different values of α and β (Appendix A).
 - `intensity2_behaviour.R`: Code to study the behaviour of the second intensity function for different values of α and β (Appendix A).
-- `bias_analysis.R`: Main script for Simulation Study I.
+- `simulation_study_i.R`: Main script for Simulation Study I.
 
 ## Usage
 
