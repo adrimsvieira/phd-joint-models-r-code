@@ -33,6 +33,12 @@ No support or additional documentation is provided.
 
 ---
 
+### Funding
+
+This work was supported by the PhD grant 128191/2016 funded by FCT I.P., by the Ministério da Ciência, Tecnologia e Ensino Superior (MCTES), Portugal to the author.
+
+---
+
 **Author:** Adriana Vieira  
 **Institution:** University of Minho  
 **Year:** 2024
